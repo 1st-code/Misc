@@ -1,0 +1,1 @@
+while( document.body.innerHTML.indexOf('guard') != -1){ document.body.innerHTML = document.body.innerHTML.replace(/guard\w*\b/i, 'Sohoo ').replace(/The Sohoo/i, 'Sohoo').replace('the protection', 'Sohoo').replace(/swim\w*\b/i, 'Suyeong '); }
